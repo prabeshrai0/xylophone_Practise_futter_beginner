@@ -9,6 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  list_english_words: ^0.1.1+2
+  audioplayers: ^0.16.1
 
   cupertino_icons: ^0.1.2
 
